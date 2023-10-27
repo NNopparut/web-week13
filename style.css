@@ -1,0 +1,37 @@
+body {
+    background-image: url(bg.webp);
+}
+
+.center{
+    display: block;
+    width: 280px;
+    margin: auto;
+    padding: 0%;
+}
+
+.container{
+    text-align: center;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+}
+.self{
+    text-align: center;
+    border: 2px solid rgb(226, 185, 0);
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    padding:center;
+}
+h1{
+    color: rgb(226, 185, 0);
+    text-align: center;
+    font-size: 70px;
+}
+h3{
+    color: aliceblue;
+}
+
+.mine{
+    color: rgb(226, 185, 0);
+}
